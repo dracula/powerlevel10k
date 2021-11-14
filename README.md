@@ -1,6 +1,6 @@
 # Dracula for Powerlevel10k
 
-> A dark theme for Oh My Zsh theme [Powerlevel10k](https://github.com/romkatv/powerlevel10k).
+A dark theme for Oh My Zsh theme [Powerlevel10k](https://github.com/romkatv/powerlevel10k).
 
 ![Screenshot](./screenshot.png)
 
